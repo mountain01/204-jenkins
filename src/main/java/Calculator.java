@@ -3,7 +3,7 @@ import java.util.UUID;
 class Calculator {
 
     Calculator(){
-      System.out.println('testing pushing')
+      System.out.println('testing pushing');
     }
 
     int add(int a , int b){
