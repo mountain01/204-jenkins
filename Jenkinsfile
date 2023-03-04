@@ -1,7 +1,7 @@
 pipeline {
 
   environment {
-    registery = 'edwardsjm/calc-app'
+    registry = 'edwardsjm/calc-app'
     registryCredential='dockerhub'
     dockerImage=''
   }
